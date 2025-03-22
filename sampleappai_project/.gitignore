@@ -1,0 +1,16 @@
+# Ignorar pastas e arquivos de sistema
+*.log
+*.bak
+*.swp
+*.tmp
+*.DS_Store
+node_modules/
+*.idea/
+*.vscode/
+
+# Ignorar arquivos pessoais do sistema Windows
+AppData/
+Documents/
+Downloads/
+Recent/
+Favorites/
