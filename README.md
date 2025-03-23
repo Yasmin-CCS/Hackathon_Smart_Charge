@@ -22,4 +22,4 @@ Optimizing people's schedules, cut costs and reduce strain on the grid. </br>
 Smarter charging = bigger savings.
 
 Demo</br>
-https://www.canva.com/design/DAGhR5cu-fE/uk2Oax_98AwnPxT3CKuq9w/edit?utm_content=DAGhR5cu-fE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://youtu.be/76cYpojL4GQ
